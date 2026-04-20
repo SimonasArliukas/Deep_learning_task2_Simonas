@@ -1,0 +1,82 @@
+[
+    {
+        "rank": 1,
+        "index": 71,
+        "loss": 2.6543,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nKaip Gvido Latako metalo meno studijos paveikė her poetinę vaizduotę?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Akademinės juvelyrikos žinios leido jam poezijoje, tapyboje ir taikomajame mene sukurti vientisą, amatininkišką kūrybinę visumą.",
+        "model_answer": "Gvido Latako kūrybinis kelią formavo studijos Kauno ir Vilniaus universitetuose, kur metafizinės struktūros ir kruopščiai valdomos formos tapo pagrindiniu jo poezijos ir prozos akcentu."
+    },
+    {
+        "rank": 2,
+        "index": 96,
+        "loss": 2.3438,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nAr yra žinių, ar Juozas Aputis kada nors lankėsi teniso varžybose kaip žiūrovas?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Turimuose dokumentuose informacijos apie autoriaus susidomėjimą šia sporto šaka nėra.",
+        "model_answer": "Šiuo metu pateiktame dokumente informacijos apie autoriaus sporto pomėgius nėra."
+    },
+    {
+        "rank": 3,
+        "index": 12,
+        "loss": 2.2207,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nKokie šedevrus Martynas Vainilaitis paliko vaikų literatūros lobynui?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Jo klasika tapę kūriniai yra „Bruknelė“, „Sidabrinis briedis“ bei paslaptingieji „Kaulo bobos apžavai“.",
+        "model_answer": "Skaitytojų širdis užkariavo poezijos rinkinys „Pavasario šviesa“ bei giliuose vaikų širdyse išsaugotos knygos „Pavasario žiedai“ bei „Pavasario šviesa“."
+    },
+    {
+        "rank": 4,
+        "index": 62,
+        "loss": 2.0723,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nAr Kostas Kubilinskas bendradarbiavo su sovietų saugumu (MGB) išduodamas partizanus?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Taip, šis faktas amžiams aptemdė jo, kaip itin talenkingo vaikų poeto, vardą visuomenės akyse.",
+        "model_answer": "Taip, jis buvo vienas iš pirmųjų sovietinės saugumo agentijos įkūrėjų Lietuvoje."
+    },
+    {
+        "rank": 5,
+        "index": 103,
+        "loss": 2.0508,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nKokie veiksniai lėmė poeto ir menininko Gvido Latako kūrybos polifoniškumą?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Jo universalumą nulėmė metalo meno (juvelyrikos) studijos, leidusios tapybą ir poeziją suvokti kaip vientisą amatą.",
+        "model_answer": "Gvidas Latakas savo kūrybinį kelią pradėjo sovietmečiu, tačiau jo kūryba neprarado iki šių dienų. Jo kūrybinį kelią praturtino ne tik sovietinės ideologijos, bet ir nepriklausomybės laikotarpio kova už laisvę."
+    },
+    {
+        "rank": 6,
+        "index": 192,
+        "loss": 2.0273,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nAr turime žinių apie tai, ar Jono Biliūno skėtis buvo juodos spalvos studijuojant Leipcige?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Turimoje biografinėje medžiagoje duomenų apie konkrečius autoriaus asmeninius daiktus nėra.",
+        "model_answer": "Šiuo metu pateiktame dokumente informacijos apie autoriaus fizinius įvaizdžius nėra."
+    },
+    {
+        "rank": 7,
+        "index": 222,
+        "loss": 2.0137,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nAr yra išlikusių žinių apie tai, ar Juozas Aputis buvo aistringas grybautojas laisvalaikiu?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Turimuose dokumentuose informacijos apie konkretų rašytojo pomėgį grybauti gamtoje nėra.",
+        "model_answer": "Šiuo metu pateiktame dokumente informacijos apie autoriaus laisvalaikio pomėgius nėra."
+    },
+    {
+        "rank": 8,
+        "index": 163,
+        "loss": 1.9854,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nKas nutraukė perspektyvų poeto Zigmo Gaidamavičiaus-Gėlės gyvenimą pačioje pradžioje?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Jaunąjį talentą, būnantį vos aštuoniolikos metų, pasiglemžė negailestinga liga – džiova.",
+        "model_answer": "Nors Zigmas Gaidamavičius-Gėlė savo kūrybinį kelią pradėjo nepriklausomos Lietuvos laikais, jo gyvenimas buvo nutrintas sovietinės okupacijos akivaizdoje."
+    },
+    {
+        "rank": 9,
+        "index": 67,
+        "loss": 1.9375,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nKodėl Algimantas Mackus sąmoningai atsisakė puošnios poetinės leksikos?<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Jis manė, kad prarasta žemė reikalauja rūsčios tiesos, todėl jo „bežemių“ kartos poezija tapo maištu prieš dirbtinį optimizmą.",
+        "model_answer": "Nors Algimantas Mackus buvo itin jautrus ir estetiškas, jis visada kūrė itin žaismingai ir šiurkštiai, nesipindindamas tradiciniais formomis."
+    },
+    {
+        "rank": 10,
+        "index": 228,
+        "loss": 1.8818,
+        "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nApibūdinkite pagrindinius Motiejaus Valančiaus kelio į bažnytinį ir pilietinį autoritetą žingsnius.<|im_end|>\n<|im_start|>assistant\n",
+        "ground_truth": "Nuo valstiečių namų iki studijų akademijoje ir vyskupo sosto – jis tapo įtakinga figūra, suvienijusia tautą per blaivybę ir švietimą.",
+        "model_answer": "Motiejus Valančius savo kelią į pilietinę valdžią pradėjo kaip kunigas, tačiau vėliau tapo viena svarbiausių knygnešių ir kovotojų. Jo veikla buvo neatsiejama nuo krikščioniškos etikos, kuri buvo neatsiejama nuo švietimo ideologijos."
+    }
+]
