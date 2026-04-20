@@ -1,4 +1,12 @@
-| Klausimas | My model (nukopijuota) | QWEN 7B (nukopijuota) | Ground Truth (nukopijuota) |
+
+
+
+
+
+
+
+
+| Question | My model | QWEN 7B | Ground Truth |
 | :--- | :--- | :--- | :--- |
 | **Kuo išskirtinė Antano Kalanavičiaus poetinė kalba ir jo pasirinktas gyvenimo būdas?** | Antanas Kalanavičius savo eilėmis meistriškai fiksavo kaimišką buitį, o jo asmenybę suformavos neprilygstamas darbininkų dvasia ir gili tautosakas. | Antano Kalanavičiaus poetinė kalba ir pasirinktas gyvenimo būdas yra vienas iš geriausių užuotmenių Lietuvos literatūroje. Žinant apie jį galima paminėti keletą svarbių aspektų: 1. Kalanavičius (1893-1940) buvo Lietuvos tautinio kultūros veikėjas, kuris atskyrimai gyveno iš savo laiko. 2. Jis pabandė ištirti ir pažymeti savo era Lietuvos tautine kultūroje, tačiau neatsiejdamas nuo realiosios gyvenimo patirties. 3. Kalanavičio kalba yra labai išskirtinė ir unikalia: - Česmės, kurią jis pabandė atvaizduoti Lietuvos tauta - Tiesiogiausias išraiška socialinių problemų ir narišumo - Čiose garsosi kultūros, politikos ir religijos konfliktai | Jis naudojo archajišką žemdirbių leksiką ir naujadarus, o kūrybą plėtojo visiškoje atskirtyje, dirbdamas kaimo kalviu bei krosnininku. |
 | **Kaip skiriasi aklumo patirties atspindys Prano Daunio ir Antano Jonyno kūryboje?** | Pranas Daunys fiksavo 1940-ųjų okupaciją per dokumentinį žodį, o Antano Jonyno kūryba yra intelektualios erdvei ir filosofiniuose pasakojimuose. | Aklumo patirties atspindimas Prano Daunio ir Antano Jonyno kūryboje gali būti skiriamas į keletą aspektų: 1. Stilis: - Pranas Daunikas: labiau realistinis, atspindiame akmenų ir kelių detaliačius vaizdus - Antanas Jonyte: dažniau abstrakcinis stilys, naudoja formines elementus 2. Temos: - Pranos Daraiulis: įvairios aukštųjų ir vidurkioji klasės gyvenimo aspektai - Antano Jonytos darstavimais gali būti dažniau atskleisti socialiniai problemos 3. Perspektyva: - Pranos Daraiulis: labiau nuo aukštųjų kaukų - Antanas Jonyte: skirtingas perspektivas, įtraukianta žmones į vaizdą 4. Emocijos: - Pranos Daraiulis: tiksli ir išskirtinė emocijų palaikymas - Antanas Jonyte gali būti dažniau emocinius, kritiščius ar | Daunio raštai pasižymi dokumentiškumu ir kovingumu, o Jonyno aklumas transformavosi į gilų sensorinį poetinį matymą. |
