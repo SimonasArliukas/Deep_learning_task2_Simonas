@@ -1,0 +1,33 @@
+model: "mlx-community/Qwen2.5-7B-Instruct-4bit"
+train: true
+data: "mlx_data"
+iters: 6000
+batch_size: 1
+num_layers: 28
+learning_rate: 5e-05
+weight_decay: 0.1
+steps_per_eval: 300
+save_every: 300
+adapter_path: "outputs_1"
+max_seq_length: 512
+
+lora_parameters:
+  rank: 32
+  alpha: 64
+  scale: 2.0
+  dropout: 0.1
+  keys:
+    - "self_attn.q_proj"
+    - "self_attn.k_proj"
+    - "self_attn.v_proj"
+    - "self_attn.o_proj"
+    - "mlp.gate_proj"
+    - "mlp.up_proj"
+    - "mlp.down_proj"
+
+lr_schedule:
+  name: cosine_decay
+  warmup: 0
+  arguments:
+    - 5e-05
+    - 6000
